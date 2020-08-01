@@ -1,0 +1,42 @@
+.hide
+{
+    display: none;
+}
+
+img
+{
+    padding: 1rem;
+}
+
+.nss-techs
+{
+    padding: 0 1rem 0 1rem;
+}
+.tech-avi
+{
+    height: 6rem;
+    width: 6rem;
+    padding: 1rem;
+    border: 1px solid #9d9d9d;
+    border-radius: 3rem;
+    margin: 4px;
+}
+
+.tech-button
+{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.titles
+{
+    margin: 0;
+}
+
+#two
+{
+    display: block;
+    flex-direction: row;
+    border-bottom: 1px solid #9d9d9d;
+    background-color: #838383;
+}
