@@ -1,0 +1,17 @@
+a
+{
+  text-decoration: none;
+}
+
+.icon
+{
+  height: 3rem;
+}
+
+.menu
+{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 4rem;
+}
